@@ -1,0 +1,609 @@
+[2024-09-02 16:22:47] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 16:22:47] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 31
+[2024-09-02 16:43:46] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 16:43:46] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 32
+[2024-09-02 16:43:53] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 16:43:53] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-02 17:14:59] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 17:14:59] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-02 17:15:00] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 17:15:00] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-02 17:15:15] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 17:15:15] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-02 17:15:17] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 17:15:17] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-02 17:15:37] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-02 17:15:37] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-03 10:35:56] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:35:56] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-03 10:36:03] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:36:04] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-03 10:36:15] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:36:15] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07User Logged In Successfuly
+[2024-09-03 10:36:15] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:38:32] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:38:32] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yadnesh_01User Logged In Successfuly
+[2024-09-03 10:38:32] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:38:35] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:39:05] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:41:06] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:41:06] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07User Logged In Successfuly
+[2024-09-03 10:41:06] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:41:08] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:41:11] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 10:48:31] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:48:31] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07 User Logged In Successfuly
+[2024-09-03 10:48:31] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:49:20] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:49:22] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 10:49:34] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:49:34] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07 User Logged In Successfuly
+[2024-09-03 10:49:34] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:51:40] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:51:46] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 10:51:53] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:51:53] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07 User Logged In Successfuly
+[2024-09-03 10:51:53] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:52:17] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 10:58:02] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:58:02] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-03 10:58:02] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 10:58:05] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 10:58:24] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:58:24] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-03 10:58:38] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:58:38] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-03 10:59:09] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 10:59:10] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: rohit27 User Logged In Successfuly
+[2024-09-03 10:59:10] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 10:59:10] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Rohit Sapkal Not have any reservation
+[2024-09-03 10:59:12] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 11:08:34] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 11:08:34] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07 User Logged In Successfuly
+[2024-09-03 11:08:34] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 11:08:34] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 11:08:54] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 11:08:59] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 11:08:59] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 11:09:01] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 11:09:02] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 11:09:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 11:10:06] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 11:10:08] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 11:10:10] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 11:20:58] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 11:20:59] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07 User Logged In Successfuly
+[2024-09-03 11:20:59] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 11:20:59] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 11:39:31] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 12:41:32] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 12:41:32] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl\user\logintab.php | SUCCESS: yash07 User Logged In Successfuly
+[2024-09-03 12:41:32] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 12:41:32] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 12:41:35] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:42:19] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:42:19] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 35
+[2024-09-03 12:43:32] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:43:32] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-03 12:43:33] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:43:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:43:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 36
+[2024-09-03 12:44:09] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:44:09] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-03 12:44:10] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:44:18] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:44:18] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 37
+[2024-09-03 12:44:38] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:44:42] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:44:42] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-03 12:44:43] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:44:47] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:44:47] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 38
+[2024-09-03 12:47:53] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:48:00] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:48:00] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 39
+[2024-09-03 12:48:03] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | ERROR: Mailer Error: SMTP Error: Could not authenticate.
+[2024-09-03 12:48:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:48:03] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-03 12:48:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:48:03] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | INFO: Table already booked.
+[2024-09-03 12:48:06] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:48:10] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:48:10] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 40
+[2024-09-03 12:48:12] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | ERROR: Mailer Error: SMTP Error: Could not authenticate.
+[2024-09-03 12:48:49] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:48:53] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:48:53] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 41
+[2024-09-03 12:51:59] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:52:05] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:52:05] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 42
+[2024-09-03 12:52:09] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation confirmed. Email sent to 
+[2024-09-03 12:52:27] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:52:33] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 12:52:33] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation successful. ID: 43
+[2024-09-03 12:52:37] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 12:53:11] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 12:53:12] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 12:53:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 12:53:19] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 12:53:19] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 12:55:33] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 12:55:33] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 15:16:48] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 17:01:32] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 17:01:33] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-03 17:01:33] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 17:01:33] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 17:01:35] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:01:57] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:01:57] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 44
+[2024-09-03 17:02:00] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:02:31] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:02:31] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:02:33] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:02:37] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:02:37] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 45
+[2024-09-03 17:02:41] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:03:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:03:03] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:03:03] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:03:09] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:03:09] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 46
+[2024-09-03 17:03:13] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:03:27] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:03:36] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:03:36] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 47
+[2024-09-03 17:03:40] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:03:57] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:04:01] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:04:01] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 48
+[2024-09-03 17:04:04] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:06:19] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:06:23] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:06:23] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 49
+[2024-09-03 17:06:27] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:06:30] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:06:52] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:06:52] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 50
+[2024-09-03 17:06:56] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:06:58] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:09:02] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 17:09:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-03 17:09:05] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:09:10] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:09:10] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 51
+[2024-09-03 17:09:14] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:09:22] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:10:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:10:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 52
+[2024-09-03 17:10:42] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:17:32] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:17:36] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:17:36] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 53
+[2024-09-03 17:17:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:17:39] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Error preparing statement for fetching user email: 
+[2024-09-03 17:21:14] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:15] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:15] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:15] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:17] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:35] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:21:35] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 54
+[2024-09-03 17:21:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:21:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:21:39] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:21:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:21:39] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:21:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:21:39] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:21:39] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:21:39] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:21:42] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:21:49] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:21:49] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 55
+[2024-09-03 17:21:53] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:41:50] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:41:51] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:42:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:42:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 56
+[2024-09-03 17:42:08] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:42:12] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to yadnesh_01
+[2024-09-03 17:43:22] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:43:30] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:43:30] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 57
+[2024-09-03 17:43:34] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:43:37] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to yadnesh_01
+[2024-09-03 17:44:50] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:44:50] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-03 17:44:51] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:44:56] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:44:56] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 58
+[2024-09-03 17:44:59] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:45:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to yadnesh_01
+[2024-09-03 17:45:18] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:45:22] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-03 17:46:46] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-03 17:46:46] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: sid07 User Logged In Successfuly
+[2024-09-03 17:46:46] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-03 17:46:46] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Siddhi Budukh Not have any reservation
+[2024-09-03 17:46:48] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:47:12] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-03 17:47:12] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 59
+[2024-09-03 17:47:17] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-03 17:47:21] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to sid07
+[2024-09-03 17:49:24] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-03 17:49:47] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-04 10:56:39] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-04 10:56:39] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-04 10:56:39] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-04 10:56:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-04 10:56:43] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-04 10:57:02] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-04 10:57:02] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 60
+[2024-09-04 10:57:06] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-04 10:57:06] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Invalid address:  (to): 
+[2024-09-04 11:00:21] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-04 11:00:25] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Database connection established successfully.
+[2024-09-04 11:00:25] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 61
+[2024-09-04 11:00:30] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to Sarangi: Pure Veg
+[2024-09-04 11:00:34] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation confirmed. Email sent to yadnesh_01
+[2024-09-04 11:01:03] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-04 11:46:30] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-04 11:46:32] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-04 14:38:13] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-04 14:38:13] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: its_ankita07 User Logged In Successfuly
+[2024-09-04 14:38:14] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-04 14:38:14] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Ankita Parbat Not have any reservation
+[2024-09-04 14:45:37] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-04 14:45:37] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Ankita Parbat Not have any reservation
+[2024-09-04 14:45:38] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-04 14:45:38] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Ankita Parbat Not have any reservation
+[2024-09-04 14:45:38] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-04 16:29:40] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-04 16:29:40] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-04 16:29:40] SUCCESS | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | SUCCESS: Connected To database Successfully
+[2024-09-04 16:29:40] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-04 16:29:50] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 16:19:31] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-05 16:19:31] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-05 16:19:31] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:19:54] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:19:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:19:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:19:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:21:38] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:21:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:21:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:21:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:28:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:28:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:28:48] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-05 16:28:55] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-05 16:28:56] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-05 16:28:56] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:44:07] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:44:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:44:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-05 16:44:10] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 16:44:26] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Error executing query: No data supplied for parameters in prepared statement
+[2024-09-05 16:44:31] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 16:44:42] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Error executing query: No data supplied for parameters in prepared statement
+[2024-09-05 16:57:21] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 16:58:40] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 63
+[2024-09-05 16:58:40] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: Invalid address:  (to): 
+[2024-09-05 16:58:44] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: yadnesh_01
+[2024-09-05 16:58:44] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-05 16:58:56] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 16:59:01] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 64
+[2024-09-05 16:59:01] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: Invalid address:  (to): 
+[2024-09-05 16:59:05] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: yadnesh_01
+[2024-09-05 17:01:42] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-05 17:01:43] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 17:01:48] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 65
+[2024-09-05 17:01:48] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: Invalid address:  (to): 
+[2024-09-05 17:01:53] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: yadnesh_01
+[2024-09-05 17:02:01] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 17:03:06] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 66
+[2024-09-05 17:03:06] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: Invalid address:  (to): 
+[2024-09-05 17:03:11] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: yadnesh_01
+[2024-09-05 17:05:24] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 17:05:29] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 67
+[2024-09-05 17:05:29] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: Invalid address:  (to): 
+[2024-09-05 17:05:34] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-05 17:08:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-05 17:08:21] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 68
+[2024-09-05 17:08:26] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Sarangi: Pure Veg
+[2024-09-05 17:08:30] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-05 17:09:01] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-06 09:48:06] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-06 09:48:06] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-06 09:48:06] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-06 09:48:35] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-06 09:49:09] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 69
+[2024-09-06 09:49:09] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[2024-09-06 09:49:09] ERROR | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | ERROR: Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo failed: No such host is known. 
+[2024-09-06 09:49:16] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-06 09:50:27] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 11:25:38] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 11:25:38] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-16 11:26:27] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 11:26:27] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 11:26:27] ERROR | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | ERROR: Table 'rest_book.restinfo' doesn't exist
+[2024-09-16 11:26:33] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:26:34] ERROR | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | ERROR: Table 'rest_book.restinfo' doesn't exist
+[2024-09-16 11:28:23] ERROR | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | ERROR: Unknown column 'r.username' in 'where clause'
+[2024-09-16 11:28:25] ERROR | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | ERROR: Unknown column 'r.username' in 'where clause'
+[2024-09-16 11:28:59] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Yadnesh Budukh Not have any reservation
+[2024-09-16 11:29:03] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:39:38] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Yadnesh Budukh Not have any reservation
+[2024-09-16 11:39:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Yadnesh Budukh Not have any reservation
+[2024-09-16 11:39:40] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 11:40:08] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 11:40:08] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 11:40:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Yadnesh Budukh Not have any reservation
+[2024-09-16 11:40:09] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:40:24] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:40:26] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:40:28] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:40:29] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:40:37] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:40:39] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:40:46] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:42:30] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:43:18] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:43:19] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:43:35] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'cont' in 'field list'
+[2024-09-16 11:45:03] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 1
+[2024-09-16 11:45:03] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'email' in 'field list'
+[2024-09-16 11:54:24] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-16 11:54:25] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:54:29] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 2
+[2024-09-16 11:54:29] ERROR | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | ERROR: Unknown column 'email' in 'field list'
+[2024-09-16 11:55:41] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:55:45] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 3
+[2024-09-16 11:55:51] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Sarangi: Pure Veg
+[2024-09-16 11:55:56] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 11:57:27] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:57:29] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 11:58:22] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:58:41] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 4
+[2024-09-16 11:58:45] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Sarangi: Pure Veg
+[2024-09-16 11:58:50] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 11:59:38] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 11:59:42] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 5
+[2024-09-16 11:59:46] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Sarangi: Pure Veg
+[2024-09-16 11:59:49] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 12:00:09] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:00:13] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 12:04:49] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 12:04:49] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 12:04:49] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:04:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:04:59] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:06:15] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 12:14:40] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 12:14:40] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-16 12:14:51] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 12:14:51] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 12:14:51] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:14:53] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:15:06] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 6
+[2024-09-16 12:15:10] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Am - Pm Chinese Couisine
+[2024-09-16 12:15:14] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: 
+[2024-09-16 12:15:42] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:15:48] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 7
+[2024-09-16 12:15:54] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Am - Pm Chinese Couisine
+[2024-09-16 12:15:59] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 12:16:54] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:16:56] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 8
+[2024-09-16 12:17:01] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Am - Pm Chinese Couisine
+[2024-09-16 12:17:06] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 12:17:57] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:18:01] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 9
+[2024-09-16 12:18:07] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Am - Pm Chinese Couisine
+[2024-09-16 12:18:12] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 12:18:46] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:18:47] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:18:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:19:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:19:07] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:19:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:19:11] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 12:31:50] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 12:31:50] Warning | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | Warning: Entered Username or Password Does not match
+[2024-09-16 12:31:57] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 12:31:58] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 12:31:58] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:32:28] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:33:19] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 10
+[2024-09-16 12:33:25] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Gavhane's Mutton
+[2024-09-16 12:33:29] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 12:33:29] INFO | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | INFO: Table already booked.
+[2024-09-16 12:33:33] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:33:38] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 11
+[2024-09-16 12:33:42] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Gavhane's Mutton
+[2024-09-16 12:33:46] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
+[2024-09-16 12:34:50] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 12:34:52] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 12:36:59] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 12:36:59] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 12:36:59] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 12:39:36] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:06:07] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-16 13:10:28] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-16 13:10:28] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-16 13:12:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:12:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:12:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:12:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:12:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:13:14] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:13:31] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:18:00] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:18:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:18:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:21:05] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 13:25:16] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 13:25:41] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:05:38] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:06] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:06] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:10] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:52] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:54] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:06:57] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:06:58] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:07:00] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:07:03] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:07:06] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:07:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservations displayed successfully
+[2024-09-16 14:07:15] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:07:50] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:07:51] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:08:27] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:11:35] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:17:05] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:18:19] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:18:35] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:18:54] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:19:38] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:19:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:19:40] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:20:09] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:21:32] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:00] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:35] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:48] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:53] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:54] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:56] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:57] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:22:58] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 14:22:59] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:00] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:51] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:52] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:53] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:54] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:55] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:56] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:23:58] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-16 14:24:00] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:24:01] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:24:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-16 14:55:58] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 10:27:38] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-19 10:27:38] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-19 10:27:38] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 10:28:03] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-19 11:30:43] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:01] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:11] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:13] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:14] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:14] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:15] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 11:31:16] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:10:06] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:23] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:26] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:32] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:33] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:33] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:34] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:35] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:36] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:37] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:37] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:37] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:41] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:41] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 12:11:42] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:15] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:19] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:20] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:20] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:21] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:22] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:22] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:23] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:23] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:24] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:25] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:26] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:27] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:27] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:28] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:29] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:30] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:30] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:31] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:32] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:33] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:33] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:35] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:35] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:36] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:36] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:39] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:44] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:45] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:46] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:47] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:47] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:49] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-19 17:24:51] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:51:58] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-25 16:51:58] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-25 16:51:58] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:01] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:03] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:05] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\previous_reservations.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:05] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:10] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-25 16:52:10] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh_01 User Logged In Successfuly
+[2024-09-25 16:52:10] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:11] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:12] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:13] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:13] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:13] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:13] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:14] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:17] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:52:19] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-25 16:52:28] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-25 16:52:29] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: sid0708 User Logged In Successfuly
+[2024-09-25 16:52:29] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:53:00] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-25 16:53:02] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Reservation Displayed Successfuly
+[2024-09-25 16:53:03] SUCCESS | File: logout.php | Path: C:\xampp\htdocs\project_sapl2\user\logout.php | SUCCESS:  Logged Out Successfully
+[2024-09-25 16:55:08] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: Connection Successful
+[2024-09-25 16:55:08] SUCCESS | File: logintab.php | Path: C:\xampp\htdocs\project_sapl2\user\logintab.php | SUCCESS: yadnesh User Logged In Successfuly
+[2024-09-25 16:55:08] INFO | File: dashboard.php | Path: C:\xampp\htdocs\project_sapl2\user\dashboard.php | INFO: Yadnesh Budukh Not have any reservation
+[2024-09-25 16:55:11] SUCCESS | File: book1.php | Path: C:\xampp\htdocs\project_sapl2\user\book1.php | SUCCESS: Accessed Booking Page
+[2024-09-25 16:55:25] SUCCESS | File: book.php | Path: C:\xampp\htdocs\project_sapl2\user\book.php | SUCCESS: Reservation successful. ID: 18
+[2024-09-25 16:55:30] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation email sent to restaurant: Sarangi: Pure Veg
+[2024-09-25 16:55:36] SUCCESS | File: SendMails.php | Path: C:\xampp\htdocs\project_sapl2\user\backend\sendMail.php | SUCCESS: Reservation confirmation email sent to customer: Yadnesh Budukh
